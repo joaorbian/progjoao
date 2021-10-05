@@ -1,4 +1,4 @@
-## - E ai! Eu sou o João Ricardo 
+## - Hi! I'am João Ricardo
 
 - 💻 Full Stack
 - 🌱 Never Stop Learn 
