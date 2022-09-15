@@ -1,4 +1,4 @@
-![bannerReadme](https://i.pinimg.com/originals/ac/d1/c4/acd1c4c9c0abfac43b1841eb67c8a535.png)
+![bannerReadme](https://www.pixelstalk.net/wp-content/uploads/2016/10/Arch-Linux-Wallpaper-Widescreen.png)
 >
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+João+Ricardo;+Welcome+to+My+Profile!;I+Always+bring+news+and+new+projects;DEV+enthusiast+❤️+)](https://git.io/typing-svg)
 
