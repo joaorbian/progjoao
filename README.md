@@ -1,15 +1,14 @@
 ![bannerReadme](https://www.pixelstalk.net/wp-content/uploads/2016/10/Arch-Linux-Wallpaper-Widescreen.png)
 >
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+João+Ricardo;+Welcome+to+My+Profile!;I+Always+bring+news+and+new+projects;DEV+enthusiast+❤️+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&vCenter=true&width=600&lines=Hi+everyone+👋,+I+am+João+Bianchini+Vieira;+Welcome+to+My+Profile!;I+am+Full+Stack+Developer)](https://git.io/typing-svg)
 
-About me: 
-- 💻 Full Stack
+## _About me:_ 
+- 💻 Full Stack Developer
 - 🌱 Never Stop Learn
-- I'm currently working on this projects:
-- [Progjoao.com](http://progjoao.com/)
-- [Alphaaio.com](https://www.alphaa.io/home)
-- [Alphaainc.com](https://www.alphaainc.com/home)
-- App Budgetapp - organização fincaneira
+
+<br>
+
+My Portfolio: [progjoao.com](http://progjoao.com/)
 
 <br>
 
