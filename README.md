@@ -1,15 +1,15 @@
-![bannerReadme](https://www.pixelstalk.net/wp-content/uploads/2016/10/Arch-Linux-Wallpaper-Widescreen.png)
+![bannerReadme](https://user-images.githubusercontent.com/99741457/159925109-a3f88c93-d7f2-4eb1-a93b-7278fc268fa6.png)
 >
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&vCenter=true&width=600&lines=Hi+everyone+👋,+I+am+João+Bianchini+Vieira;+Welcome+to+My+Profile!;I+am+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&center=true&width=800&lines=Hi+everyone+👋,+I+am+João+Bianchini+Vieira;+Welcome+to+My+Profile!;I+am+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## _About me:_ 
-- 💻 Full Stack Developer
-- 🌱 Never Stop Learn
+💻 Full Stack Developer
+
+🌱 Never Stop Learn
+
+Portfolio: [progjoao.com](http://progjoao.com/)
 
 <br>
-
-My Portfolio: [progjoao.com](http://progjoao.com/)
-
 <br>
 
 <div align="center"> 
@@ -20,20 +20,21 @@ My Portfolio: [progjoao.com](http://progjoao.com/)
 </div>
 
 <br>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>
+  
 <br>
     
-<div align="center">
+<div style="display: flex" align="center">
   <a href="https://github.com/progjoao">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=progjoao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=progjoao&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center" style="display: inline_block"><br>
-    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
     
 ##
