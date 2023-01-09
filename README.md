@@ -1,4 +1,9 @@
-![bannerReadme](https://user-images.githubusercontent.com/99741457/159925109-a3f88c93-d7f2-4eb1-a93b-7278fc268fa6.png)
+<div align="center" width="300px">
+  
+  ![bannerReadme](https://i.pinimg.com/originals/a4/9d/56/a49d565aead13660377b31b4706c2aeb.jpg)
+
+</div>
+            
 >
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&center=true&width=800&lines=Hi+everyone+👋,+I+am+João+Bianchini+Vieira;+Welcome+to+My+Profile!;I+am+Full+Stack+Developer)](https://git.io/typing-svg)
 
