@@ -8,9 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230051ff&center=true&center=true&width=800&lines=Hi+everyone+👋,+I+am+João+Bianchini+Vieira;+Welcome+to+My+Profile!;I+am+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## _About me:_ 
-💻 Full Stack Developer
-
-🌱 Never Stop Learn
+💻 I never stop
 
 Portfolio: [progjoao.com](https://progjoao.vercel.app/)
 
@@ -18,7 +16,7 @@ Portfolio: [progjoao.com](https://progjoao.vercel.app/)
 <br>
 
 <div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/joaordev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   <a href="https://github.com/progjoao" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/joaoricardobianchinivieira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 <!--   <a href="https://discord.gg/5wtMgpWKuH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> -->
