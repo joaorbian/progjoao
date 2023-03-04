@@ -1,6 +1,6 @@
 <div align="center" width="300px">
   
-  ![bannerReadme](https://i.pinimg.com/originals/a4/9d/56/a49d565aead13660377b31b4706c2aeb.jpg)
+  ![bannerReadme](https://raw.githubusercontent.com/progjoao/JRPortfolio/master/assets/images/a49d565aead13660377b31b4706c2aeb%20(1).jpg)
 
 </div>
             
